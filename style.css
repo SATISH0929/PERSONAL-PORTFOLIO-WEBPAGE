@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 20px;
+}
+.project-card {
+    background: #f4f4f4;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
