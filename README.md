@@ -26,3 +26,4 @@ A modern **portfolio website** designed to showcase a developer’s projects and
 
 # Output
 
+![Image](https://github.com/user-attachments/assets/e3afbca2-8417-49b0-85ba-63dfa7b553d2)
